@@ -1,10 +1,10 @@
-# Licence-1 Tronc-Commain MI(Math et informatique)
+# Licence-1 Tronc-Commain MI(Math et informatique) 71.6Mb
 
 Welcome to the repository for the Licence 1 MI courses at the NTIC faculty of Constantine2 University. This repository serves as a comprehensive collection of course materials, including lecture notes, assignments, and additional resources for each module. It's designed to provide students with easy access to course content, promote self-study, and facilitate collaborative learning. Whether you're a student in the course or a self-learner interested in Math and Computer Science, we hope you find these resources helpful.
 
 ## Table of Contents
 
-- [Licence-1 Tronc-Commain MI(Math et informatique)](#licence-1-tronc-commain-mimath-et-informatique)
+- [Licence-1 Tronc-Commain MI(Math et informatique) 71.6Mb](#licence-1-tronc-commain-mimath-et-informatique-716mb)
   - [Table of Contents](#table-of-contents)
   - [Modules](#modules)
   - [Folder Structure](#folder-structure)
@@ -75,13 +75,12 @@ LMD L1 S1
 │       └── TD 3.doc
 ├── TERM Terminologie Scientifique et Expression Ecrite et Orale (I -L1)
 │   └── Cours
-│       └── Cours
-│           ├── 1-Syllabus.pdf
-│           ├── Cours 1 - La terminologie.pdf
-│           ├── Cours 2 - la polysémie et la monosémie.pdf
-│           ├── Cours 3 - la connotation et la dénotation.pdf
-│           ├── Cours 4 - la communication selon R Jakobson.pdf
-│           └── Cours 5 - les néologismes et les archaïsmes.pdf
+│       ├── 1-Syllabus.pdf
+│       ├── Cours 1 - La terminologie.pdf
+│       ├── Cours 2 - la polysémie et la monosémie.pdf
+│       ├── Cours 3 - la connotation et la dénotation.pdf
+│       ├── Cours 4 - la communication selon R Jakobson.pdf
+│       └── Cours 5 - les néologismes et les archaïsmes.pdf
 ├── _Others
 │   ├── Controles
 │   │   ├── Controle ALG1.jpg
