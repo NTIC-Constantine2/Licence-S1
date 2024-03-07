@@ -9,7 +9,7 @@ Welcome to the repository for the Licence 1 MI courses at the NTIC faculty of Co
   - [Modules](#modules)
   - [Folder Structure](#folder-structure)
   - [Modules](#modules-1)
-    - [Installation](#installation)
+  - [Installation](#installation)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -28,7 +28,7 @@ Briefly describe the modules included in this repository.
 ## Folder Structure
 
 ```
-L1_S1
+LMD L1 S1
 
 ├── ALG Algèbre 1 (I -L1)
 │   ├── Cours
@@ -42,16 +42,15 @@ L1_S1
 │       ├── Série 3.pdf
 │       └── Série 4.pdf
 ├── ALGO l'Algorithme (I-L1)
-│   ├── New folder
-│   │   ├── C++.pdf
-│   │   └── PythonNotesForProfessionals.pdf
-│   ├── Cours_Ch1_Ch2_Algo_2020_Cne2.pdf
-│   ├── Cours_Ch3_Algo_2020_Cne2.pdf
-│   ├── TD1_Algo_2020_Cne2.pdf
-│   ├── TD2_Algo_2020_Cne2.pdf
-│   ├── TD3_Algo_2020_Cne2.pdf
-│   ├── TD4_Algo_2020_Cne2.pdf
-│   └── TD5_Algo_2020_Cne2.pdf
+│   ├── Cours
+│   │   ├── Cours_Ch1_Ch2_Algo_2020_Cne2.pdf
+│   │   └── Cours_Ch3_Algo_2020_Cne2.pdf
+│   └── TD
+│       ├── TD1_Algo_2020_Cne2.pdf
+│       ├── TD2_Algo_2020_Cne2.pdf
+│       ├── TD3_Algo_2020_Cne2.pdf
+│       ├── TD4_Algo_2020_Cne2.pdf
+│       └── TD5_Algo_2020_Cne2.pdf
 ├── ANA Analyse 1 (I-L1)
 │   ├── others
 │   │   ├── analyse 1 .pdf
@@ -76,29 +75,32 @@ L1_S1
 │       └── TD 3.doc
 ├── TERM Terminologie Scientifique et Expression Ecrite et Orale (I -L1)
 │   └── Cours
-│       ├── 1 Syllabus 1.pdf
-│       ├── Cours 1 - La terminologie.pdf
-│       ├── Cours 2 - la polysémie et la monosémie.pdf
-│       ├── Cours 3 - la connotation et la dénotation.pdf
-│       ├── Cours 4 - la communication selon R Jakobson.pdf
-│       └── Cours 5 - les néologismes et les archaïsmes.pdf
-└── _Others
-    ├── Controles
-    │   ├── Controle ALG1.jpg
-    │   ├── Controle ALGO.jpg
-    │   ├── Controle ANA1.jpg
-    │   ├── Controle COMP.jpg
-    │   ├── Controle CRI.jpg
-    │   ├── Controle TERM.jpg
-    │   ├── Interro ALGO.jpg
-    │   ├── Interro ANA1.jpg
-    │   ├── Interro comp.jpg
-    │   ├── Interro CRI.jpg
-    │   └── Interros ALG1.jpg
-    ├── FAQ
-    │   └── FAQ.txt
-    └── Videos Recommandeé
-        └── Liens Youtube.txt
+│       └── Cours
+│           ├── 1-Syllabus.pdf
+│           ├── Cours 1 - La terminologie.pdf
+│           ├── Cours 2 - la polysémie et la monosémie.pdf
+│           ├── Cours 3 - la connotation et la dénotation.pdf
+│           ├── Cours 4 - la communication selon R Jakobson.pdf
+│           └── Cours 5 - les néologismes et les archaïsmes.pdf
+├── _Others
+│   ├── Controles
+│   │   ├── Controle ALG1.jpg
+│   │   ├── Controle ALGO.jpg
+│   │   ├── Controle ANA1.jpg
+│   │   ├── Controle COMP.jpg
+│   │   ├── Controle CRI.jpg
+│   │   ├── Controle TERM.jpg
+│   │   ├── Interro ALGO.jpg
+│   │   ├── Interro ANA1.jpg
+│   │   ├── Interro comp.jpg
+│   │   ├── Interro CRI.jpg
+│   │   └── Interros ALG1.jpg
+│   ├── FAQ
+│   │   └── FAQ.txt
+│   └── Videos Recommandeé
+│       └── Liens Youtube.txt
+├── LICENSE.md
+└── README.md
 ```
 
 ## Modules
@@ -112,7 +114,7 @@ Each module in this repository has its own documentation in the form of a syllab
 - [ECS Electronique et Composants des Systèmes (I -L1)](./ECS%20Electronique%20et%20Composants%20des%20Systèmes%20(I%20-L1)/Cours/1-Syllabus.pdf)
 - [TERM Terminologie Scientifique et Expression Ecrite et Orale (I -L1)](./TERM%20Terminologie%20Scientifique%20et%20Expression%20Ecrite%20et%20Orale%20(I%20-L1)/Cours/1-Syllabus.pdf)
 
-### Installation
+## Installation
 
 ```bash
 # Clone the repository
